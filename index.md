@@ -1,9 +1,9 @@
 ---
 lang: en
-title: N-HUM-INNO
+title: Frederick Fontaine
 permalink: "/"
 
-excerpt: LabCom N-Hum-Inno
+excerpt: Frederick Fontaine
 header:
   overlay_image: "/assets/images/home/banner-labcom.jpg"
 
