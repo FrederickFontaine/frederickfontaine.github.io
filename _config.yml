@@ -12,20 +12,21 @@
 
 #theme                    : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
-#minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Frédérick Fontaine"
+title                    : "Frederick Fontaine"
 title_separator          : "|"
-name                     : "Frédérick Fontaine"
-description              : "Frédérick Fontaine"
+name                     : "Frederick Fontaine"
+description              : "Frederick Fontaine"
 #url                      : #"https://erpi.univ-lorraine.fr"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-url                      : 
+url                      : "https://frederickfontaine.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : 
+repository               : "frederickfontaine/frederickfontaine" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo:                    :"/assets/images/logoaustralie.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -102,7 +103,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Worldwide"
-  email            :
+  email            : "frederickfontaine@nomdedomaine.fr"
   uri              : ""
   home             : # null (default), "absolute or relative url to link to author home"
   flickr           :
@@ -155,7 +156,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-highlighter: rouge
+highlighter: bleu
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false

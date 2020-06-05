@@ -1,12 +1,12 @@
 ---
 lang: fr
-title: "N-HUM-INNO"
+title: "Frédérick Fontaine"
 layout: single
 permalink: /fr/
-excerpt: "LabCom N-Hum-Inno"
+excerpt: "Frédérick Fontaine"
 
 header:
-  overlay_image: /assets/images/home/banner-labcom.jpg
+  overlay_image: /assets/images/home/bannerhome.jpg
 
 
 gallery:

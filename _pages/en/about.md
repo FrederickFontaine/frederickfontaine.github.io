@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "About N-Hum-Inno"
+title: "About FF"
 permalink: /about/
 
 collection: people
@@ -8,10 +8,10 @@ entries_layout: grid
 teaser_class: staff
 sort_by: orden 
 
-excerpt: "About N-Hum-Inno"
+excerpt: "About FF"
 header:
-  overlay_image: /assets/images/about/erpi-travail.jpg
-  image_description: "N-Hum-Inno LabCom"
+  overlay_image: /assets/images/about/bannerflamant.png
+  image_description: "image description"
 
 
 intro:
