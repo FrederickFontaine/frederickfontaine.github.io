@@ -3,7 +3,7 @@ lang: en
 title: Frédérick Fontaine
 permalink: "/"
 
-excerpt: Frédérick Fontaine
+excerpt: 
 header:
   overlay_image: "/assets/images/home/bannerhome.jpg"
 
@@ -24,27 +24,11 @@ gallery:
 
 ---
 
+Communication 
+--------------
 
-**The joint research laboratory: N-Hum-Inno**
+Events
+---------------
 
-Text 
-
-*Text* 
-
-***Text***  
-
-
-
-## Partners
-
-{% include gallery %}
-
-## Latest News
-
-
-{% include /n-hum-inno/Posts-EN.html %}
-
-
-## Legal notice
-
-text
+Project management 
+-------------------
