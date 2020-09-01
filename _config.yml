@@ -275,6 +275,9 @@ collections:
   summer-school:
     output: true
 
+  photographie:
+    output: true  
+    permalink: /:collection/:path/   
 
 
 
@@ -413,6 +416,24 @@ defaults:
       path: "_people/fr"
     values:
       lang: fr
+
+
+  # _projects
+  - scope:
+      type: photographie
+    values:
+      layout: single
+      classes: wide
+      sidebar:
+        nav: "photographie"      
+    #en
+  - scope:
+      path: "_photographie/fr"
+    values:
+      lang: fr
+      permalink: /:collection/:title/
+      sidebar:
+        nav: "photographie"   
 
 
 

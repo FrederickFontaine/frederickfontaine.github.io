@@ -3,5 +3,16 @@ main:
  
   - title: ':gb:'
     url: /
+  - title: "Photographie"
+    url : /fr/photographies/
 
+photographie:
 
+  - title: "Photographie"
+    children:
+      - title: "Photographie animalière"
+        url: /photographies/animaux/
+      
+      - title: "Photographie de paysage"
+        url: /photographies/paysages/
+     
