@@ -4,6 +4,14 @@ permalink: "/photographies/paysages/"
 
 excerpt: ""
 
+
+gallery: 
+- url: /assets/images/paysage/australia.jpg
+  image_path: /assets/images/paysage/australia.jpg
+- url: /assets/images/paysage/aussie.jpg  
+  image_path: /assets/images/paysage/aussie.jpg
+
+
 header:
   teaser: /assets/images/teaser/teaserpaysages.jpg
   overlay_image: /assets/images/banner/bannerphotographie.jpg
@@ -11,12 +19,10 @@ header:
   caption: 
   overlay_filter: 
 
-last_modified_at: 2020-08-20
 
 ---
 
-{% include figure image_path="/assets/images/bulles/BulleLina.png" alt="Lina première année Psychologie" caption="" %}
-
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 
 

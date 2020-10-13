@@ -1,10 +1,15 @@
 # Navigation Links in French
 main:
+
+  - title: "CV"
+    url : /fr/cv/
+
+  - title: "Photographie"
+    url : /fr/photographies/
+
  
   - title: ':gb:'
     url: /
-  - title: "Photographie"
-    url : /fr/photographies/
 
 photographie:
 
@@ -16,3 +21,5 @@ photographie:
       - title: "Photographie de paysage"
         url: /photographies/paysages/
      
+      - title: "Photographie test"
+        url: /photographies/test/
